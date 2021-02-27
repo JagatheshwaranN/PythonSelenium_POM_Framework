@@ -1,0 +1,1 @@
+[32mINFO    [0m tests.Test_LoginPage:Test_LoginPage.py:41 Login to application test execution start

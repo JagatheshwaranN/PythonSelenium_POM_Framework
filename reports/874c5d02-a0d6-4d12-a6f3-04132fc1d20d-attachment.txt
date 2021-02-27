@@ -1,0 +1,2 @@
+[32mINFO    [0m tests.Test_LoginPage:Test_LoginPage.py:24 Login page login button test execution start
+[32mINFO    [0m tests.Test_LoginPage:Test_LoginPage.py:28 Login page login button test execution end

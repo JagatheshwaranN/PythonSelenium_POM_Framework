@@ -1,0 +1,118 @@
+21-02-2021 18:00:02 - tests.Test_LoginPage - INFO - Login page login button test execution start
+21-02-2021 18:00:08 - tests.Test_LoginPage - INFO - Login page login button test execution end
+21-02-2021 18:00:17 - tests.Test_LoginPage - INFO - Login page title test execution start
+21-02-2021 18:00:22 - tests.Test_LoginPage - INFO - Login page title test execution end
+21-02-2021 18:00:30 - tests.Test_LoginPage - INFO - Login to application test execution start
+21-02-2021 18:00:43 - tests.Test_LoginPage - INFO - Login to application test execution end
+21-02-2021 18:02:29 - tests.Test_LoginPage - INFO - Login page login button test execution start
+21-02-2021 18:02:35 - tests.Test_LoginPage - INFO - Login page login button test execution end
+21-02-2021 18:02:45 - tests.Test_LoginPage - INFO - Login page title test execution start
+21-02-2021 18:02:50 - tests.Test_LoginPage - INFO - Login page title test execution end
+21-02-2021 18:02:58 - tests.Test_LoginPage - INFO - Login to application test execution start
+21-02-2021 18:03:11 - tests.Test_LoginPage - INFO - Login to application test execution end
+27-02-2021 11:28:57 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution start
+27-02-2021 11:29:23 - tests.Test_CustomerSearchPage - INFO - Customer search module test execution start
+27-02-2021 11:30:38 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution start
+27-02-2021 11:31:00 - tests.Test_CustomerSearchPage - INFO - Customer search module test execution start
+27-02-2021 11:35:25 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution start
+27-02-2021 11:35:40 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution end
+27-02-2021 11:35:50 - tests.Test_CustomerSearchPage - INFO - Customer search module test execution start
+27-02-2021 11:36:03 - pages.CustomerSearchPage - INFO - Customer search result section found
+27-02-2021 11:36:05 - pages.CustomerSearchPage - INFO - Customer match successful
+27-02-2021 11:36:05 - tests.Test_CustomerSearchPage - INFO - Customer search module test execution end
+27-02-2021 11:55:21 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution start
+27-02-2021 11:55:38 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution end
+27-02-2021 11:55:51 - tests.Test_CustomerSearchPage - INFO - Customer search module test execution start
+27-02-2021 11:56:20 - pages.CustomerSearchPage - INFO - Customer search result section found
+27-02-2021 11:56:20 - pages.CustomerSearchPage - INFO - Customer match successful
+27-02-2021 11:56:20 - tests.Test_CustomerSearchPage - INFO - Customer search module test execution end
+27-02-2021 11:56:29 - tests.Test_HomePage - INFO - Home page title test execution start
+27-02-2021 11:56:39 - tests.Test_HomePage - INFO - Home page title test execution end
+27-02-2021 11:56:49 - tests.Test_HomePage - INFO - Home page dashboard test execution start
+27-02-2021 11:57:00 - tests.Test_HomePage - INFO - Home page dashboard test execution end
+27-02-2021 11:57:09 - tests.Test_HomePage - INFO - Home page settings icon test execution start
+27-02-2021 11:57:20 - tests.Test_HomePage - INFO - Home page settings icon test execution end
+27-02-2021 11:57:30 - tests.Test_HomePage - INFO - Home page account test execution start
+27-02-2021 11:57:39 - tests.Test_HomePage - INFO - Home page account test execution end
+27-02-2021 11:57:51 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 11:57:56 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 11:58:04 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 11:58:09 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 11:58:18 - tests.Test_LoginPage - INFO - Login to application test execution start
+27-02-2021 11:58:30 - tests.Test_LoginPage - INFO - Login to application test execution end
+27-02-2021 11:58:39 - tests.Test_LoginPage - INFO - Login to application using excel data test execution start
+27-02-2021 11:58:51 - tests.Test_LoginPage - INFO - Login to application using excel data test execution end
+27-02-2021 12:04:44 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution start
+27-02-2021 12:05:04 - tests.Test_CustomerSearchPage - INFO - Customer search page title test execution end
+27-02-2021 12:05:18 - tests.Test_HomePage - INFO - Home page title test execution start
+27-02-2021 12:05:34 - tests.Test_HomePage - INFO - Home page title test execution end
+27-02-2021 12:05:45 - tests.Test_HomePage - INFO - Home page dashboard test execution start
+27-02-2021 12:05:55 - tests.Test_HomePage - INFO - Home page dashboard test execution end
+27-02-2021 12:06:07 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 12:06:12 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 12:06:22 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 12:06:25 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 12:36:16 - tests.Test_HomePage - INFO - Home page title test execution start
+27-02-2021 12:36:34 - tests.Test_HomePage - INFO - Home page title test execution end
+27-02-2021 12:37:04 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 12:37:10 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 12:43:25 - tests.Test_HomePage - INFO - Home page title test execution start
+27-02-2021 12:43:39 - tests.Test_HomePage - INFO - Home page title test execution end
+27-02-2021 12:43:52 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 12:43:56 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 12:48:12 - tests.Test_HomePage - INFO - Home page title test execution start
+27-02-2021 12:48:26 - tests.Test_HomePage - INFO - Home page title test execution end
+27-02-2021 12:48:39 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 12:48:45 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 12:55:04 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 12:55:09 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 12:56:51 - tests.Test_HomePage - INFO - Home page title test execution start
+27-02-2021 12:57:05 - tests.Test_HomePage - INFO - Home page title test execution end
+27-02-2021 12:57:17 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 12:57:23 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 12:57:34 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 12:57:39 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 16:55:43 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 16:55:54 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 16:56:39 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 16:56:45 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 16:56:58 - tests.Test_LoginPage - INFO - Login to application test execution start
+27-02-2021 16:57:13 - tests.Test_LoginPage - INFO - Login to application test execution end
+27-02-2021 17:07:34 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:07:49 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:08:00 - tests.Test_LoginPage - INFO - Login to application test execution start
+27-02-2021 17:30:31 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:30:38 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 17:30:57 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:31:02 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 17:31:13 - tests.Test_LoginPage - INFO - Login to application test execution start
+27-02-2021 17:31:24 - tests.Test_LoginPage - INFO - Login to application test execution end
+27-02-2021 17:35:45 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:35:51 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 17:36:01 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:36:06 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 17:36:17 - tests.Test_LoginPage - INFO - Login to application test execution start
+27-02-2021 17:36:32 - tests.Test_LoginPage - INFO - Login to application test execution end
+27-02-2021 17:37:47 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:37:49 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 17:37:59 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:38:03 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 17:38:16 - tests.Test_LoginPage - INFO - Login to application test execution start
+27-02-2021 17:38:28 - tests.Test_LoginPage - INFO - Login to application test execution end
+27-02-2021 17:48:35 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:48:40 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 17:48:56 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:49:01 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 17:53:40 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:53:48 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 17:54:05 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:54:11 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 17:56:32 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 17:56:36 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 17:56:52 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 17:56:57 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 18:05:02 - tests.Test_LoginPage - INFO - Login page login button test execution start
+27-02-2021 18:05:08 - tests.Test_LoginPage - INFO - Login page login button test execution end
+27-02-2021 18:05:20 - tests.Test_LoginPage - INFO - Login page title test execution start
+27-02-2021 18:05:24 - tests.Test_LoginPage - INFO - Login page title test execution end
+27-02-2021 18:05:33 - tests.Test_LoginPage - INFO - Login to application test execution start
